@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Database Management Systems",
+    "code": "DBMS101",
+    "description": "Relational database design, SQL querying, normalization forms (1NF to BCNF), transaction concurrency, and B+ tree indexing.",
+    "teacherId": "65f010000000000000000001",
+    "enrolledStudents": [
+      "65f020000000000000000101",
+      "65f020000000000000000102",
+      "65f020000000000000000103"
+    ],
+    "_id": "6ab6c7f46c0146fb6d6726c4",
+    "createdAt": "2026-09-25T19:13:56.056Z",
+    "updatedAt": "2026-09-25T19:13:56.056Z"
+  }
+]

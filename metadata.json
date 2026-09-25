@@ -1,0 +1,6 @@
+{
+  "name": "AI-Integrated Student Assistant",
+  "description": "Production-grade Student-Teacher Academic Management & AI Assistance Platform featuring roll-call attendance, course management, assignments, submissions, exams, materials, and real Gemini AI academic tutoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

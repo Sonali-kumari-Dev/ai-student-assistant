@@ -1,0 +1,30 @@
+[
+  {
+    "subjectId": "6ab6c7f46c0146fb6d6726c4",
+    "date": "2026-09-26",
+    "teacherId": "65f010000000000000000001",
+    "records": [
+      {
+        "studentId": "65f020000000000000000101",
+        "rollNumber": "101",
+        "studentName": "Aarav Sharma",
+        "status": "Present"
+      },
+      {
+        "studentId": "65f020000000000000000102",
+        "rollNumber": "102",
+        "studentName": "Priya Patel",
+        "status": "Absent"
+      },
+      {
+        "studentId": "65f020000000000000000103",
+        "rollNumber": "103",
+        "studentName": "Rohan Gupta",
+        "status": "Present"
+      }
+    ],
+    "_id": "6ab6c80d7d5f2f26904a1b2c",
+    "createdAt": "2026-09-25T19:14:21.209Z",
+    "updatedAt": "2026-09-25T19:14:21.209Z"
+  }
+]
